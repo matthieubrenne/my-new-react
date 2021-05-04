@@ -2,6 +2,10 @@
 
 first command after clone
 
+### `git remote rm origin`
+
+pour retirer le lien avec le fichier cloné
+
 
 # Getting Started with Create React App
 
