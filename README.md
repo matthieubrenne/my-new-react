@@ -1,4 +1,4 @@
-# npm install
+### `npm install`
 
 first command after clone
 
